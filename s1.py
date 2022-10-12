@@ -12,3 +12,6 @@ for i in range (1, b + 1):
     if 78 <= i <= 87:
         continue
     print(i)
+    
+print('Hello')    
+    
